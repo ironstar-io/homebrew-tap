@@ -9,6 +9,6 @@ class TokaidoEdge < Formula
     bottle :unneeded
   
     def install
-      bin.install "tok"
+      bin.install "tok-edge"
     end
 end
