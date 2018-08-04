@@ -9,6 +9,7 @@ class Tokaido < Formula
     bottle :unneeded
   
     def install
-      bin.install "tok"
+      bin.install "tok-macos"
+      bin.install_symlink "#{libexec}/tok-macos" => "tok"
     end
-  end
+end
