@@ -10,6 +10,6 @@ class Tokaido < Formula
   
     def install
       bin.install "tok-macos"
-      bin.install_symlink "#{libexec}/bin/tok-macos" => "tok"
+      bin.install_symlink "tok-macos" => "tok"
     end
 end
