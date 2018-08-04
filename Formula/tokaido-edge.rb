@@ -9,6 +9,7 @@ class TokaidoEdge < Formula
     bottle :unneeded
   
     def install
-      bin.install "tok-edge"
+      bin.install "tok-macos-edge"
+      bin.install_symlink "#{libexec}/tok-macos-edge" => "tok-edge"
     end
 end
