@@ -1,4 +1,4 @@
-class Tokaido_Edge < Formula
+class TokaidoEdge < Formula
     desc "Zero-conf Drupal Environments using Docker"
     homepage "https://tokaido.io"
     url "https://github.com/ironstar-io/tokaido/releases/download/edge/tok-macos"
