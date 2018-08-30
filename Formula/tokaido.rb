@@ -1,8 +1,8 @@
 class Tokaido < Formula
     desc "Zero-conf Drupal Environments using Docker"
     homepage "https://tokaido.io"
-    url "https://github.com/ironstar-io/tokaido/releases/download/1.0.0/tok-macos"
-    sha256 "92f3833f6f083be28c22c8662b55a8b532e2ebfce04e916e7e5f8e413f6f2f12"
+    url "https://github.com/ironstar-io/tokaido/releases/download/1.1.0/tok-macos"
+    sha256 "566b9666f7bc85ef9881eff27e86a1704723fdf100cce3f2783d00be9769e9b9"
   
     depends_on "unison"
   
