@@ -3,7 +3,7 @@ class Tokaido < Formula
     homepage "https://tokaido.io"
     url "https://github.com/ironstar-io/tokaido/releases/download/1.1.2/tok-macos"
     version "1.1.2"
-    sha256 "d1ba08653a09ec10a60a3666cb15d0c91a2507886b46a0d70afe8de51b877b7a"
+    sha256 "5fac01abf8d4ed257c9d11e6ea608f41337d74d410e769493348b2d28e69783b"
 
     depends_on "unison"
 
