@@ -1,9 +1,9 @@
 class UnisonFsmonitor < Formula
     desc "Unison-fsmonitor by Hannes Landeholm, distributed for use with Tokaido"
     homepage "https://tokaido.io"
-    url "https://github.com/ironstar-io/unison-fsmonitor/releases/download/0.0.1/unison-fsmonitor.py"
-    version "0.0.1"
-    sha256 "798538a19fba721d256122b3bff0681b9d0cf37f897cca39458ed689abf78a08"
+    url "https://github.com/ironstar-io/unison-fsmonitor/releases/download/0.0.2/unison-fsmonitor.py"
+    version "0.0.2"
+    sha256 "8bdbff731da047a4a343972299207f68a32d077069d2999ee644a5e9cd6b3ca4"
 
     depends_on "unison"
 
