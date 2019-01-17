@@ -5,7 +5,7 @@ class Tokaido < Formula
     version "1.5.0"
     sha256 "3f5f2f25e198cb1e86b7dfc13d204e0d2f178263e4cbbb65150dfb23ac8cf520"
 
-    depends_on "unison"
+    depends_on "unison"    
 
     bottle :unneeded
 

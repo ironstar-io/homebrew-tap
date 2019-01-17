@@ -1,4 +1,4 @@
-class Tokaido < Formula
+class UnisonFsmonitor < Formula
     desc "Unison-fsmonitor by Hannes Landeholm, distributed for use with Tokaido"
     homepage "https://tokaido.io"
     url "https://github.com/ironstar-io/unison-fsmonitor/releases/download/0.0.1/unison-fsmonitor.py"
