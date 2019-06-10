@@ -1,4 +1,4 @@
-class TokaidoAT19 < Formula
+class Tokaido < Formula
   desc "Zero-conf Drupal Environments using Docker"
   homepage "https://tokaido.io"
   url "https://github.com/ironstar-io/tokaido/releases/download/1.9.1/tok-macos"
